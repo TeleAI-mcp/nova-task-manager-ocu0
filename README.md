@@ -1,2 +1,3 @@
-# nova-task-manager-ocu0
-Automated issue comment bot repository
+# Nova Task Manager Ocu0
+
+Automated issue comment bot repository.
